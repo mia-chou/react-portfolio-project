@@ -1,0 +1,15 @@
+.Footer ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    background-color: #e6e8ea;
+    margin: 0px;
+  }
+  .Footer li {
+    margin: 20px;
+  }
+  .Footer a {
+    text-decoration: none;
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.518);
+  }
