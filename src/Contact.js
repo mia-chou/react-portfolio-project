@@ -14,14 +14,14 @@ export default function Contact() {
             target="_blank"
             rel="noreferrer"
           >
-            bethanyjw@live.co.uk
+            mia.fy.chou@hotmail.com
           </a>
         </li>
         <li>
           Linkedin
           <br />
           <a
-            href="https://www.linkedin.com/in/bethjwilliamson/"
+            href=""
             target="_blank"
             rel="noreferrer"
           >
