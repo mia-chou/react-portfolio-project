@@ -8,13 +8,11 @@ export default function Home() {
         <h3>Frontend Developer</h3>
         <a href="#about">Get to Know me</a>
         <h3>
-          <ul>
-            <li>HTML & CSS</li>
+        <ul>
+            <li>Html & CSS</li>
             <li>JavaScript</li>
             <li>React.js</li>
             <li>BootStrap</li>
-            <li>Responsive design</li>
-            <li>Git & GitHub</li>
             <li>Web Hosting</li>
           </ul>
         </h3>

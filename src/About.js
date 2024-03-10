@@ -30,7 +30,7 @@ export default function About() {
           </p>
         </div>
         <div className="col-sm-6">
-          <img src={Portrait} className="img-fluid" alt="Beth" />
+          <img src={Portrait} className="img-fluid" alt="Mia" />
         </div>
       </div>
     </div>

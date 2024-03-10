@@ -2,7 +2,7 @@
     list-style: none;
     display: flex;
     justify-content: center;
-    background-color: #e6e8ea;
+    background-color:rgba(224, 212, 227, 1) ;
     margin: 0px;
   }
   .Footer li {
