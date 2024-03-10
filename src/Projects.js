@@ -19,7 +19,7 @@ export default function Projects() {
                 API and images API.
               </p>
               <a
-                href="https://dictionary-app-bjw.netlify.app/"
+                href="https://react-dictionary-app-proyecto.netlify.app/"
                 className="btn btn-primary"
                 target="_blank"
                 rel="noreferrer"
@@ -59,7 +59,7 @@ export default function Projects() {
                 <br /> API.
               </p>
               <a
-                href="https://reloj-mundial.netlify.app/"
+                href="https://react-weather-clima-app.netlify.app/"
                 className="btn btn-primary"
                 target="_blank"
                 rel="noreferrer"
@@ -91,7 +91,7 @@ export default function Projects() {
         </div>
       </div>
       <p className="git ">
-        <a href="https://github.com/BethJW" target="_blank" rel="noreferrer">
+        <a href="https://github.com/mia-chou" target="_blank" rel="noreferrer">
           Take a look at my code on GitHub
         </a>
       </p>

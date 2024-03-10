@@ -3,11 +3,20 @@ import "./Nav.css";
 import Container from "react-bootstrap/Container";
 import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
+import Logo from "./logo without background.png"; 
+
 export default function Navigation() {
   return (
     <Navbar expand="lg" className="bg-body-tertiary">
       <Container>
-        <Navbar.Brand href="#home">BW</Navbar.Brand>
+        <Navbar.Brand href="#home">
+          <img
+            src={Logo}
+            alt="Your Logo"
+            height="200" // Adjust the height as needed
+            className="d-inline-block align-top"
+          />{" "}
+        </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">

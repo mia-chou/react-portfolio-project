@@ -1,11 +1,13 @@
 import React from "react";
+import Portrait from "./image of me.jpg";
+import "bootstrap/dist/css/bootstrap.min.css"; // Import Bootstrap CSS
 
 export default function About() {
   return (
-    <div className="About" id="about">
-      <h2 className="introduction"> Hi, I'm Mia Chou </h2>
+    <div className="About text-center" id="about">
+      <h2 className="introduction">Hi, I'm Mia Chou</h2>
       <h4>📍Based in Leeds</h4>
-      <div className="row">
+      <div className="row justify-content-center align-items-center">
         <div className="col-sm-6">
           <p className="about-me">
             I'm a freelance frontend developer based in West Yorkshire, Leeds,
@@ -18,13 +20,17 @@ export default function About() {
             responsive design. I love learning new things, especially about new
             software and automation technology, and I thrive in collaborative
             environments and welcome fresh and innovative challenges to create a
-            positive influence in the digital world. <br />
+            positive influence in the digital world.
+            <br />
             <br />
             How did I get here? I began experimenting with basic HTML and CSS
-            during my time at university, however, I knew that I wanted to take
-            my passion further and that's when I started a coding course, called
+            during my time at university; however, I knew that I wanted to take
+            my passion further, and that's when I started a coding course called
             SheCodes.
           </p>
+        </div>
+        <div className="col-sm-6">
+          <img src={Portrait} className="img-fluid" alt="Beth" />
         </div>
       </div>
     </div>
