@@ -10,7 +10,7 @@ export default function Contact() {
         <li>
           Email <br />{" "}
           <a
-            href="mailto:bethanyjw@live.co.uk"
+            href="mailto:mia.fy.chou@hotmail.com"
             target="_blank"
             rel="noreferrer"
           >
@@ -21,11 +21,11 @@ export default function Contact() {
           Linkedin
           <br />
           <a
-            href=""
+            href="https://www.linkedin.com/in/mia-chou/"
             target="_blank"
             rel="noreferrer"
           >
-            @bethjwilliamson
+            @miafychou
           </a>
         </li>
       </ul>
