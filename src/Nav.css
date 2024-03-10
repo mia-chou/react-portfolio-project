@@ -1,0 +1,13 @@
+.navbar-light .navbar-brand {
+    margin-left: 20px;
+  }
+  a {
+    font-size: 25px;
+  }
+  
+  a.navbar-brand {
+    font-size: 40px;
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 5px;
+  }
