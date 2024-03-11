@@ -9,10 +9,10 @@ export default function Home() {
         <a href="#about">Get to Know me</a>
         <h3>
         <ul>
-            <li>Html & CSS</li>
+            <li>HTML & CSS</li>
             <li>JavaScript</li>
             <li>React.js</li>
-            <li>BootStrap</li>
+            <li>Bootstrap</li>
             <li>Web Hosting</li>
           </ul>
         </h3>
