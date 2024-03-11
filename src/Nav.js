@@ -1,15 +1,15 @@
 // Navigation.js
 
 import React from "react";
-import "./Nav.css";
 import Container from "react-bootstrap/Container";
 import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
 import Logo from "./logo without background.png";
+import "./Nav.css";
 
 export default function Navigation() {
   return (
-    <Navbar expand="lg" className="bg-body-tertiary">
+    <Navbar expand="lg" className="bg-nav">
       <Container>
         <Navbar.Brand href="#home">
           <img
