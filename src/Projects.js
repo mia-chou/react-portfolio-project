@@ -11,7 +11,7 @@ export default function Projects() {
       <div className="row">
         <div className="col-sm-6">
           <div className="card">
-            <img className="card-img-top" src={Dictionary} alt="dictionary" />
+          <img className="card-img-top" src={Dictionary} alt="dictionary" />
             <div className="card-body">
               <h5 className="card-title">Dictionary React App</h5>
               <p className="card-text">
@@ -20,9 +20,10 @@ export default function Projects() {
               </p>
               <a
                 href="https://react-dictionary-app-proyecto.netlify.app/"
-                className="btn btn-primary"
+                className="btn btn-outline-success"
                 target="_blank"
                 rel="noreferrer"
+                style={{ backgroundColor: "#C5E5C2", color: "#333333" }}
               >
                 Launch App
               </a>
@@ -31,7 +32,7 @@ export default function Projects() {
         </div>
         <div className="col-sm-6">
           <div className="card">
-            <img className="card-img-top" src={ResponsiveLego} alt="lego" />
+          <img className="card-img-top" src={ResponsiveLego} alt="travel" />
             <div className="card-body">
               <h5 className="card-title">Responsive Website</h5>
               <p className="card-text">
@@ -40,10 +41,11 @@ export default function Projects() {
               </p>
               <a
                 href="https://leeds-travel-project.netlify.app/"
-                className="btn btn-primary"
+                className="btn btn-outline-success"
                 target="_blank"
                 rel="noreferrer"
-              >
+                style={{ backgroundColor: "#C5E5C2", color: "#333333" }}
+                >
                 Launch App{" "}
               </a>
             </div>
@@ -51,7 +53,7 @@ export default function Projects() {
         </div>
         <div className="col-sm-6">
           <div className="card">
-            <img className="card-img-top" src={Weather} alt="weather" />
+          <img className="card-img-top" src={Weather} alt="weather" />
             <div className="card-body">
               <h5 className="card-title">React Weather App</h5>
               <p className="card-text">
@@ -60,9 +62,10 @@ export default function Projects() {
               </p>
               <a
                 href="https://react-weather-clima-app.netlify.app/"
-                className="btn btn-primary"
+                className="btn btn-outline-success"
                 target="_blank"
                 rel="noreferrer"
+                style={{ backgroundColor: "#C5E5C2", color: "#333333" }}
               >
                 Launch App{" "}
               </a>
@@ -71,7 +74,7 @@ export default function Projects() {
         </div>
         <div className="col-sm-6">
           <div className="card">
-            <img className="card-img-top" src={Recipe} alt="recipe" />
+          <img className="card-img-top" src={Recipe} alt="recipe" />
             <div className="card-body">
               <h5 className="card-title">Recipe Generator</h5>
               <p className="card-text">
@@ -80,9 +83,10 @@ export default function Projects() {
               </p>
               <a
                 href="https://cocktail-generator-project.netlify.app/"
-                className="btn btn-primary"
+                className="btn btn-outline-success"
                 target="_blank"
                 rel="noreferrer"
+                style={{ backgroundColor: "#C5E5C2", color: "#333333" }}
               >
                 Launch App{" "}
               </a>

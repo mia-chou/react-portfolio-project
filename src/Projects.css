@@ -30,5 +30,12 @@ section {
     color: black;
   }
   .card:hover {
-    background-color: rgba(112, 202, 251, 0.429);
+    background-color: #D8D8D8;
   }
+
+  .btn-custom {
+    background-color:#C5E5C2 ; /* Replace "yourColor" with the desired color code */
+    color: #fff; /* Set text color to white or any contrasting color */
+    /* Add any additional styling as needed */
+  }
+
