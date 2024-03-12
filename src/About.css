@@ -1,26 +1,21 @@
-   .About {
-    margin-top: 40px;
-    padding: 20px; /* Add padding for better visual appeal */
-  }
-  
-  .About h2 {
-    padding-top: 50px;
-    text-align: center;
-    font-size: 40px;
-  }
-  
-  .About h4 {
-    text-align: center;
-  }
-  
-  .About p {
-    font-size: 20px;
-    text-align: center; /* Center text within paragraphs */
-  }
-  
-  .About img {
-    display: block; /* Ensure the image is centered within its container */
-    margin: 0 auto; /* Center the image horizontally */
-    max-width: 100%; /* Ensure the image doesn't exceed its container width */
-    border-radius: 30px;
-  }
+.About {
+  background-color: rgba(230, 230, 255, 1);
+  margin-top: 40px;
+}
+.About h2 {
+  padding-top: 50px;
+  text-align: center;
+  font-size: 40px;
+}
+.About h4 {
+  text-align: center;
+}
+.About p {
+  font-size: 20px;
+  margin: 0 auto;
+}
+
+.About img {
+  height: 600px;
+  border-radius: 30px;
+}

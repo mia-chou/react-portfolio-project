@@ -1,15 +1,19 @@
+
 .navbar-light .navbar-brand {
-    margin-left: 20px;
-  }
-  a {
-    font-size: 25px;
-  }
-  
-  a.navbar-brand {
-    font-size: 40px;
-    padding: 10px;
-    border-radius: 5px;
-  }
-  .bg-nav {
-    background-color: rgba(224, 212, 227, 1);
-  }
+  margin-left: 20px;
+}
+a {
+  font-size: 35px;
+  font-weight: bold;
+  color: #333;
+
+}
+
+a.navbar-brand {
+  font-size: 40px;
+  padding: 10px;
+  border-radius: 5px;
+}
+.bg-nav {
+  background-color: rgba(224, 212, 227, 1);
+} 
