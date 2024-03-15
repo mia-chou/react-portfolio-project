@@ -2,12 +2,12 @@ import React from "react";
 import "./Projects.css";
 import Weather from "./weather.png";
 import Recipe from "./cocktail.png";
-import Shoppingcart from "./shoppingcart.png";
+import QRcode from "./QRcode.png";
 import ResponsiveTravel from "./responsive.png";
 import Todolist from "./todo.png";
 import Worldclock from"./Worldclock.png";
-import QRcode from"./QRcode.png";
-import Tic from"./tictactoe.png";
+import Memory from"./memory.png";
+import Tip from"./tip.png";
 
 
 
@@ -113,15 +113,15 @@ export default function Projects() {
         <div className="row">
           <div className="col-sm-6">
             <div className="card">
-              <img className="card-img-top" src={Shoppingcart} alt="cart" />
+              <img className="card-img-top" src={QRcode} alt="code" />
               <div className="card-body">
-                <h5 className="card-title">Shopping Cart App</h5>
+                <h5 className="card-title">QR Code Generator</h5>
                 <p className="card-text">
                   A dictionary app made using React with an integrated Dictionary
                   API and images API.
                 </p>
                 <a
-                  href="https://react-dictionary-app-proyecto.netlify.app/"
+                  href="https://qr-code-generator-react-project.netlify.app/"
                   className="btn btn-outline-success"
                   target="_blank"
                   rel="noreferrer"
@@ -134,9 +134,9 @@ export default function Projects() {
           </div>
           <div className="col-sm-6">
           <div className="card">
-            <img className="card-img-top" src={QRcode} alt="qr" />
+            <img className="card-img-top" src={Memory} alt="game" />
             <div className="card-body">
-              <h5 className="card-title">QR</h5>
+              <h5 className="card-title">Memory</h5>
               <p className="card-text">
                 A responsive website built with javascript, utilising responsive
                 design with media queries.
@@ -156,9 +156,9 @@ export default function Projects() {
 
         <div className="col-sm-6">
           <div className="card">
-            <img className="card-img-top" src={Tic} alt="tic" />
+            <img className="card-img-top" src={Tip} alt="tip" />
             <div className="card-body">
-              <h5 className="card-title">Tic Tac Toe</h5>
+              <h5 className="card-title">Tip Calculate </h5>
               <p className="card-text">
                 A responsive website built with javascript, utilising responsive
                 design with media queries.
