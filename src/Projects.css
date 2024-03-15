@@ -1,11 +1,14 @@
 section {
-    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+
   }
-  .row {
-    text-align: center;
-    padding: 30px;
-  }
+.row {
+  text-align: center;
+  padding: 30px;
+}
+ 
+ 
   section .col-sm-6 {
     margin-top: 20px;
   }
@@ -33,9 +36,4 @@ section {
     background-color: #D8D8D8;
   }
 
-  .btn-custom {
-    background-color:#C5E5C2 ; /* Replace "yourColor" with the desired color code */
-    color: #fff; /* Set text color to white or any contrasting color */
-    /* Add any additional styling as needed */
-  }
 
