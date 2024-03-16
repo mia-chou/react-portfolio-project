@@ -202,7 +202,7 @@ export default function Projects() {
         </div>
       </section>
 
-      <p className="git">
+      <p className="git"style={{ marginTop: "20px" }}>
         <a href="https://github.com/mia-chou" target="_blank" rel="noreferrer">
           Take a look at my code on GitHub
         </a>
