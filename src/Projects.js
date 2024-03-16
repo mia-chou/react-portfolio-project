@@ -6,7 +6,7 @@ import QRcode from "./QRcode.png";
 import ResponsiveTravel from "./responsive.png";
 import Todolist from "./todo.png";
 import Worldclock from"./Worldclock.png";
-import Memory from"./memory game.png";
+import MemoryGame from"./memory game.png";
 import Tip from"./tip.png";
 
 
@@ -134,7 +134,7 @@ export default function Projects() {
           </div>
           <div className="col-sm-6">
           <div className="card">
-            <img className="card-img-top" src={Memory} alt="game" />
+            <img className="card-img-top" src={MemoryGame} alt="game" />
             <div className="card-body">
               <h5 className="card-title">Memory Game</h5>
               <p className="card-text">
