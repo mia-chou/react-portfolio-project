@@ -164,7 +164,7 @@ export default function Projects() {
                 design with media queries.
               </p>
               <a
-                href="https://lego-bjw.netlify.app/"
+                href="https://react-tip-calculator-app-project.netlify.app/"
                 className="btn btn-outline-success"
                 target="_blank"
                 rel="noreferrer"
