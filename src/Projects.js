@@ -141,7 +141,7 @@ export default function Projects() {
                 design with media queries.
               </p>
               <a
-                href="https://lego-bjw.netlify.app/"
+                href="#more"
                 className="btn btn-outline-success"
                 target="_blank"
                 rel="noreferrer"
