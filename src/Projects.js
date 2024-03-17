@@ -26,7 +26,7 @@ export default function Projects() {
                   A todo list app made using HTML, CSS and JavaScript.
                 </p>
                 <a
-                  href="https://to-do-list-lista.netlify.app/"
+                  href="https://react-todo-lista.netlify.app/"
                   className="btn btn-outline-success"
                   target="_blank"
                   rel="noreferrer"
