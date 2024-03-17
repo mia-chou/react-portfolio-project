@@ -158,7 +158,7 @@ export default function Projects() {
           <div className="card">
             <img className="card-img-top" src={Tip} alt="tip" />
             <div className="card-body">
-              <h5 className="card-title">Tip Calculate </h5>
+              <h5 className="card-title">Tip Calculator </h5>
               <p className="card-text">
                 A responsive website built with javascript, utilising responsive
                 design with media queries.
