@@ -21,9 +21,9 @@ export default function Projects() {
             <div className="card">
               <img className="card-img-top" src={Todolist} alt="dictionary" />
               <div className="card-body">
-                <h5 className="card-title">To Do List</h5>
+                <h5 className="card-title">Todo List</h5>
                 <p className="card-text">
-                  A to do list app made using HTML, CSS and JavaScript.
+                  A todo list app made using HTML, CSS and JavaScript.
                 </p>
                 <a
                   href="https://to-do-list-lista.netlify.app/"
@@ -43,8 +43,7 @@ export default function Projects() {
             <div className="card-body">
               <h5 className="card-title">Responsive Website</h5>
               <p className="card-text">
-                A responsive website built with javascript, utilising responsive
-                design with media queries.
+              A JavaScript-based responsive website employing responsive design techniques through media queries.
               </p>
               <a
                 href="https://leeds-travel-project.netlify.app/"
