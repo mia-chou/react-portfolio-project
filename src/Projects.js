@@ -26,7 +26,7 @@ export default function Projects() {
                 This to-do list app simplifies task management by utilising HTML, CSS, and JavaScript for easy addition, deletion, searching, and filtering of tasks.
                 </p>
                 <a
-                  href="https://react-todo-lista.netlify.app/"
+                  href="https://todo-list-lista-app.netlify.app/"
                   className="btn btn-outline-success"
                   target="_blank"
                   rel="noreferrer"
