@@ -23,7 +23,7 @@ export default function Projects() {
               <div className="card-body">
                 <h5 className="card-title">Todo List</h5>
                 <p className="card-text">
-                This todo list app uses HTML, CSS, and JavaScript to let you add, delete, search, and filter tasks easily, making task management simple and efficient.
+                This to-do list app simplifies task management by utilising HTML, CSS, and JavaScript for easy addition, deletion, searching, and filtering of tasks.
                 </p>
                 <a
                   href="https://react-todo-lista.netlify.app/"
