@@ -43,7 +43,7 @@ export default function Projects() {
             <div className="card-body">
               <h5 className="card-title">Responsive Website</h5>
               <p className="card-text">
-              A website built using HTML and CSS with responsive design adapts its layout and content to different screen sizes. Media queries in the CSS ensure that the website looks good and functions well on various devices, such as desktops, tablets, and smartphones.
+              A responsive website adjusts layout and content for different screen sizes using HTML/CSS. Media queries ensure consistent appearance on desktops, tablets, and smartphones.
               </p>
               <a
                 href="https://leeds-travel-project.netlify.app/"
@@ -65,8 +65,7 @@ export default function Projects() {
             <div className="card-body">
               <h5 className="card-title">Cocktail Generator</h5>
               <p className="card-text">
-                A responsive website built with javascript, utilising responsive
-                design with media queries.
+              A JavaScript-based Cocktail Generator utilises an AI API to suggest cocktail recipes. The AI API enhances the user experience by providing personalised recommendations for cocktails based on preferences.
               </p>
               <a
                 href="https://cocktail-generator-project.netlify.app/"
@@ -88,8 +87,7 @@ export default function Projects() {
             <div className="card-body">
               <h5 className="card-title">World Clock App</h5>
               <p className="card-text">
-                A responsive website built with javascript, utilising responsive
-                design with media queries.
+              This application displays the local time alongside selected cities worldwide. Users can view time for London, Taipei, and Dominica via a dropdown menu. The project was developed using HTML, CSS, and JavaScript.
               </p>
               <a
                 href="https://reloj-mundial.netlify.app/"
@@ -116,8 +114,7 @@ export default function Projects() {
               <div className="card-body">
                 <h5 className="card-title">QR Code Generator</h5>
                 <p className="card-text">
-                  A dictionary app made using React with an integrated Dictionary
-                  API and images API.
+                The QR Code Generator empowers developers to seamlessly create and scan QR codes directly within their React applications.
                 </p>
                 <a
                   href="https://qr-code-generator-react-project.netlify.app/"
@@ -137,8 +134,7 @@ export default function Projects() {
             <div className="card-body">
               <h5 className="card-title">Memory Game</h5>
               <p className="card-text">
-                A responsive website built with javascript, utilising responsive
-                design with media queries.
+              Built with React.js, this memory game challenges players to match pairs of cards while experiencing smooth and seamless gameplay. Test your memory and concentration skills with this engaging and interactive game.
               </p>
               <a
                 href="#more"
@@ -159,8 +155,7 @@ export default function Projects() {
             <div className="card-body">
               <h5 className="card-title">Tip Calculator </h5>
               <p className="card-text">
-                A responsive website built with javascript, utilising responsive
-                design with media queries.
+              This React.js app makes tipping easy. Enter the bill amount and choose the tip percentage. Developed with React.js for a user-friendly experience.
               </p>
               <a
                 href="https://react-tip-calculator-app-project.netlify.app/"
