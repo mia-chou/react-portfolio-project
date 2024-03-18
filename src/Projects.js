@@ -114,7 +114,8 @@ export default function Projects() {
               <div className="card-body">
                 <h5 className="card-title">QR Code Generator</h5>
                 <p className="card-text">
-                The QR Code Generator empowers developers to seamlessly create and scan QR codes directly within their React applications.
+                  In this React.js project, you can input a value and generate a corresponding QR code instantly.
+        
                 </p>
                 <a
                   href="https://qr-code-generator-react-project.netlify.app/"
