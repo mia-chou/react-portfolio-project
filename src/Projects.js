@@ -155,7 +155,7 @@ export default function Projects() {
             <div className="card-body">
               <h5 className="card-title">Tip Calculator </h5>
               <p className="card-text">
-              This React.js app makes tipping easy. Enter the bill amount and choose the tip percentage. Developed with React.js for a user-friendly experience.
+              This React.js app makes tipping easy. Enter the bill amount and choose the tip percentage. 
               </p>
               <a
                 href="https://react-tip-calculator-app-project.netlify.app/"
