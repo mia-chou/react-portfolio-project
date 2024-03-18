@@ -5,7 +5,7 @@ export default function Contact() {
   return (
     <div className="Contact" id="contact">
       <div className="contact-head">Get in touch ✉️ </div>
-      <h3>Available via email, linkedin and Mobile </h3>
+      <h3>Available via email and linkedin. </h3>
       <ul>
         <li>
           Email <br />{" "}
