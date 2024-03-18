@@ -43,7 +43,7 @@ export default function Projects() {
             <div className="card-body">
               <h5 className="card-title">Responsive Website</h5>
               <p className="card-text">
-              A JavaScript-based responsive website employing responsive design techniques through media queries.
+              A website built using HTML and CSS with responsive design adapts its layout and content to different screen sizes. Media queries in the CSS ensure that the website looks good and functions well on various devices, such as desktops, tablets, and smartphones.
               </p>
               <a
                 href="https://leeds-travel-project.netlify.app/"
