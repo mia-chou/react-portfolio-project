@@ -138,7 +138,7 @@ export default function Projects() {
               Built with React.js, this memory game challenges players to match pairs of cards while experiencing smooth and seamless gameplay. Test your memory and concentration skills with this engaging and interactive game.
               </p>
               <a
-                href="#more"
+                href="https://react-magic-match-memory-game.netlify.app/"
                 className="btn btn-outline-success"
                 target="_blank"
                 rel="noreferrer"
