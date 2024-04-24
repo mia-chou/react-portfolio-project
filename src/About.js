@@ -10,9 +10,7 @@ export default function About() {
       <div className="row">
         <div className="col-sm-6">
           <p className="about-me">
-            I'm a freelance frontend developer based in West Yorkshire, Leeds, holding a Masters degree in Communication and Media. About a year ago, I started learning to code because I wanted to understand how my web app projects worked behind the scenes. While I was good at designing websites and media using design software, I wanted to dive into coding to build and improve my projects. I bring a strong skill set in web development, including HTML, CSS, JavaScript, and responsive design. I love learning new things, especially about new software and automation technology, and I thrive in collaborative environments and welcome fresh and innovative challenges to create a positive influence in the digital world.
-            <br />
-            How did I reach this stage? I started playing around with basic HTML, CSS, and JavaScript while working. But I wanted to explore my interest more, so I joined a coding course called SheCodes.
+          As a freelance Front-End developer based in West Yorkshire, Leeds, I hold a Masters degree in Communication and Media. Approximately a year ago, I began learning to code, motivated by a curiosity to understand the details of my web app projects. Proficient in HTML, CSS, JavaScript, TypeScript, React.js, Python, and responsive design, I have a strong skill set in web development. Eager to explore new software and automation technology, I excel in teamwork and welcome new and creative challenges to make a positive difference in the online world.
           </p>
           <p className="CV">
             <a href="
