@@ -8,8 +8,8 @@ import Todolist from "./todo.png";
 import Worldclock from "./Worldclock.png";
 import MemoryGame from "./memory game.png";
 import Tip from "./tip.png";
-import Dictionary from "./dictionary.png";
-import ModalProject from "./modal.png";
+import Dictionary from "./Dictionary.png";
+import ModalProject from "./Modal.png";
 
 export default function Projects() {
   return (
@@ -219,7 +219,7 @@ export default function Projects() {
                   This project demonstrates the use of modals in React. It includes various types of modals and showcases their functionality and customisation options.
                 </p>
                 <a
-                  href="https://react-modal-project.netlify.app/"
+                  href="https://modal-popup-in-react.netlify.app/"
                   className="btn btn-outline-success"
                   target="_blank"
                   rel="noreferrer"
