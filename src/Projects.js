@@ -198,7 +198,7 @@ export default function Projects() {
                   A React-based dictionary app that allows users to search for words and get detailed definitions, synonyms, and audio pronunciations.
                 </p>
                 <a
-                  href="https://audio-dictionary-app-project-react.netlify.app/"
+                  href="https://react-audio-dictionary-app.netlify.app/"
                   className="btn btn-outline-success"
                   target="_blank"
                   rel="noreferrer"
