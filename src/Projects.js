@@ -2,12 +2,10 @@ import React from "react";
 import "./Projects.css";
 import Weather from "./weather.png";
 import Recipe from "./cocktail.png";
-import QRcode from "./QRcode.png";
 import ResponsiveTravel from "./responsive.png";
 import Todolist from "./todo.png";
 import Worldclock from "./Worldclock.png";
 import MemoryGame from "./memory game.png";
-import Tip from "./tip.png";
 import Dictionary from "./Dictionary.png";
 import ModalProject from "./Modal.png";
 
@@ -107,27 +105,6 @@ export default function Projects() {
         <div className="row">
           <div className="col-sm-6">
             <div className="card">
-              <img className="card-img-top" src={QRcode} alt="QR Code Generator" />
-              <div className="card-body">
-                <h5 className="card-title">QR Code Generator</h5>
-                <p className="card-text">
-                  In this React.js project, you can input a value and generate a corresponding QR code instantly.
-                </p>
-                <a
-                  href="https://qr-code-generator-react-project.netlify.app/"
-                  className="btn btn-outline-success"
-                  target="_blank"
-                  rel="noreferrer"
-                  style={{ backgroundColor: "#F9CAD2", color: "white" }}
-                >
-                  Launch App
-                </a>
-              </div>
-            </div>
-          </div>
-
-          <div className="col-sm-6">
-            <div className="card">
               <img className="card-img-top" src={MemoryGame} alt="Memory Game" />
               <div className="card-body">
                 <h5 className="card-title">Memory Game</h5>
@@ -136,27 +113,6 @@ export default function Projects() {
                 </p>
                 <a
                   href="https://react-magic-match-memory-game.netlify.app/"
-                  className="btn btn-outline-success"
-                  target="_blank"
-                  rel="noreferrer"
-                  style={{ backgroundColor: "#F9CAD2", color: "white" }}
-                >
-                  Launch App
-                </a>
-              </div>
-            </div>
-          </div>
-
-          <div className="col-sm-6">
-            <div className="card">
-              <img className="card-img-top" src={Tip} alt="Tip Calculator" />
-              <div className="card-body">
-                <h5 className="card-title">Tip Calculator</h5>
-                <p className="card-text">
-                  This React.js app makes tipping easy. Enter the bill amount and choose the tip percentage.
-                </p>
-                <a
-                  href="https://react-tip-calculator-app-project.netlify.app/"
                   className="btn btn-outline-success"
                   target="_blank"
                   rel="noreferrer"
@@ -216,7 +172,7 @@ export default function Projects() {
               <div className="card-body">
                 <h5 className="card-title">React Modal Project</h5>
                 <p className="card-text">
-                This project showcases the use of modals in React, including various types and their functionality and customisation options.
+                  This project demonstrates the use of modals in React. It includes various types of modals and showcases their functionality and customisation options.
                 </p>
                 <a
                   href="https://modal-popup-in-react.netlify.app/"
