@@ -15,7 +15,6 @@ export default function About() {
           <p className="CV">
             <a href="
 https://s3.amazonaws.com/shecodesio-production/uploads/files/000/120/649/original/Mia_Chou_CV.jpg?1711381405" target="_blank" rel="noreferrer" style={{ fontSize: "22px" }}>
-              Download my CV here
             </a>
           </p>
         </div>
