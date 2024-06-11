@@ -6,7 +6,7 @@ export default function About() {
   return (
     <div className="About" id="about">
       <h2 className="introduction">Hi, I'm Fang-Yi Chou, but people usually call me Mia</h2>
-      <h4>📍Based in Leeds</h4>
+      
       <div className="row">
         <div className="col-sm-6">
           <p className="about-me">
