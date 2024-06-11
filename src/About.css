@@ -2,17 +2,9 @@
   background-color: rgba(230, 230, 255, 1);
   margin-top: 40px;
 }
-.About h2 {
-  padding-top: 50px;
-  text-align: center;
-  font-size: 40px;
-}
+
 .About h4 {
   text-align: center;
-}
-.About p {
-  font-size: 20px;
-  margin: 0 auto;
 }
 
 .About img {
@@ -20,3 +12,25 @@
   border-radius: 30px;
 }
 
+
+
+.About {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh; /* Adjust height as needed */
+}
+
+.About h2 {
+  padding-top: 50px;
+  text-align: center;
+  font-size: 40px;
+}
+
+.About p {
+  font-size: 20px;
+  text-align: center; /* Center-align paragraphs */
+  max-width: 800px; /* Optional: Limit width for better readability */
+  margin: 0 auto; /* Center paragraphs horizontally */
+}
