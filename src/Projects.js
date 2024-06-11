@@ -216,7 +216,7 @@ export default function Projects() {
               <div className="card-body">
                 <h5 className="card-title">React Modal Project</h5>
                 <p className="card-text">
-                  This project demonstrates the use of modals in React. It includes various types of modals and showcases their functionality and customisation options.
+                This project showcases the use of modals in React, including various types and their functionality and customisation options.
                 </p>
                 <a
                   href="https://modal-popup-in-react.netlify.app/"
